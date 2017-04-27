@@ -1,7 +1,3 @@
-/**
- * Created by Marta on 2017-01-04.
- */
-
 
 (function() {
     var width = 1000;
