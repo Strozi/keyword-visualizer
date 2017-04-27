@@ -1,0 +1,93 @@
+id,word,kcount,acolor,ayear,tit
+1,classification,39,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+2,machine learning,19,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+3,rule induction,17,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+4,bagging approach,12,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+5,modlem algorithm,10,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+6,learning algorithm,9,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+7,data mining,6,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+8,forward selection,6,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+9,wrapper approach,6,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+10,backward elimination,6,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples
+11,classification,41,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+12,classification accuracy,18,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+13,feature selection,15,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+14,machine learning,8,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+15,learning algorithm,7,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+16,multiclass learning,7,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+17,genetic algorithm,7,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+18,instance based learning,3,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems
+19,minority class,43,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+20,classification,19,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+21,majority class,16,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+22,imbalanced data,15,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+23,rule induction,11,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+24,machine learning,10,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+25,rule based classifiers,7,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+26,nearest neighbors,6,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data
+27,active learning,41,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+28,classifiers,24,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+29,random forests,19,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+30,active decorate,10,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+31,learning algorithm,10,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+32,query committee,9,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+33,machine learning,7,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+34,bagging boosting,6,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning
+35,data representations,6,#afc0af,2006,Classification of Polish Email Messages: Experiments with Various Data Representations
+36,features,35,#afc0af,2006,Classification of Polish Email Messages: Experiments with Various Data Representations
+37,naive bayes,9,#afc0af,2006,Classification of Polish Email Messages: Experiments with Various Data Representations
+38,nearest neighbours,6,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+39,data mining,6,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+40,class distribution,7,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+41,rule induction,13,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+42,data sets,23,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+43,imbalanced data,35,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data
+44,classifiers,51,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers
+45,bagging,40,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers
+46,feature selection,29,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers
+47,machine learning,13,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers
+48,data mining`,4,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers
+49,imbalanced data,3,#8df2b2,2011,Local Neighbourhood Extension of SMOTE for Mining Imbalanced Data
+50,methods tree,3,#8df2b2,2011,Local Neighbourhood Extension of SMOTE for Mining Imbalanced Data
+51,classifiers,100,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+52,bagging,25,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+53,rule induction,18,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+54,multiple classifiers,17,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+55,machine learning,13,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+56,single classifiers,7,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+57,combined classifiers,7,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+58,modlem algorithm,7,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+59,rule generation,6,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+60,data mining,6,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+61,rule induction algorithm,4,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets
+62,classifiers,53,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+63,bagging,29,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+64,multiple classifiers,11,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+65,modlem algorithm,11,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+66,rule induction,9,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+67,multiple classifier,8,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+68,machine learning,7,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+69,bagging approach,6,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+70,single classifier,6,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+71,rule induction algorithm,3,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM
+72,machine learning,12,#f4b4a4,1994,USING VALUED CLOSENESS RELATION IN CLASSIFICATION SUPPORT OF NEW OBJECTS
+73,closeness relation,7,#f4b4a4,1994,USING VALUED CLOSENESS RELATION IN CLASSIFICATION SUPPORT OF NEW OBJECTS
+74,decision rules,6,#f4b4a4,1994,USING VALUED CLOSENESS RELATION IN CLASSIFICATION SUPPORT OF NEW OBJECTS
+75,classification,33,#f4b4a4,1994,USING VALUED CLOSENESS RELATION IN CLASSIFICATION SUPPORT OF NEW OBJECTS
+76,imbalanced data,67,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+77,difficulty factors,31,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+78,machine learning,17,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+79,factors imbalanced,15,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+80,nearest neighbours,15,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+81,random sampling,12,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+82,data mining,10,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+83,cluster sampling,8,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+84,artificial intelligence,7,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+85,decision trees,7,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data
+86,classifiers,69,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+87,machine learning,20,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+88,data mining,13,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+89,rule induction,6,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+90,spider method,6,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+91,nn classifiers,6,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data
+92,rule based classifiers,5,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data

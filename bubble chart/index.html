@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+  <head>
+
+    <meta charset = "utf-8">
+    <style>
+      * {
+        font-family: "sans-serif";
+      }
+      p{
+          font-size: 0.4em;
+
+
+      }
+      svg {
+        background: #f1f1f1;
+
+      }
+
+      div.tooltip {
+
+          line-height: 1;
+          font-weight: bold;
+          background: rgba(0, 0, 0, 0.8);
+          color: #fff;
+          position: absolute;
+          text-align: left;
+          padding: 5px;
+          border: 1px;
+          border-radius: 2px;
+          pointer-events: none;
+          font-size: 0.7em;
+
+
+      }
+    </style>
+
+
+
+  </head>
+
+  <body>
+       <button id = "colorbutton">Split</button>
+       <button id = "combine">Combine</button>
+
+
+       <div id="chart"></div>
+
+
+       <script type="text/javascript" src="d3.min.js"></script>
+       <script type="text/javascript" src="web/pdfjs.js"></script>
+       <script type="text/javascript" charset="utf-8" src="web/pdf.worker.js"></script>
+       <script src="d3.tip.js"></script>
+
+       <script src="bubbles.js"></script>
+
+
+
+  </body>
+
+
+
+</html>
+

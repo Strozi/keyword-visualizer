@@ -1,0 +1,14 @@
+id,acolor,ayear,tit,url
+1,#98abd2,2002,Feature selection in the n2-classifier applied for multiclass problems,54js
+2,#de4a59,2005,Extending rule based classifiers for dealing with imbalanced data,pelen1
+3,#4adedb,2009,Comparing Performance of Committee Based Approaches to Active Learning,iis-stefpach2
+4,#afc0af,2006,Classification of Polish Email Messages: Experiments with Various Data Representations,ismis4
+5,#ded94a,2014,The Impact of Local Data Characteristics on Learning from Imbalanced Data,85370001
+6,#8dcdf2,2006,Improving Bagging by Feature Selection with Dynamic Integration of Sub-classifiers,jstefanclass1
+7,#8df2b2,2011,Local Neighbourhood Extension of SMOTE for Mining Imbalanced Data,Stefantabelki
+8,#c0a4f4,2006,On Combined Classifiers Rule Induction and Rough Sets,JSPaw2
+9,#f4a4ee,2004,The bagging and n2-classifiers based on rules induced by MODLEM,upsala1
+10,#f4b4a4,1994,USING VALUED CLOSENESS RELATION IN CLASSIFICATION SUPPORT OF NEW OBJECTS,SanJosClass4
+11,#4eb183,2004,An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples,EAIIStef
+12,#feb74d,2014,Dealing with Data Difficulty Factors while Learning from Imbalanced Data,jkbook7wersjaWWW
+13,#e076be,2013,Overlapping Rare Examples and Class Decomposition in Learning Classifiers from Imbalanced Data,jstefanowski-mlbook3
